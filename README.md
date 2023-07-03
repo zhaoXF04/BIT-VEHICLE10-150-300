@@ -1,5 +1,6 @@
 # BIT-VEHICLE10-150-300
 Paper: Open Set Vehicle Detection for UAV-Based Images Using an Out-of-Distribution Detector
+
 Paper website: https://www.mdpi.com/2504-446X/7/7/434
 
 The vehicle dataset from the perspective of the drone is synthesized based on the image rendering engine.
