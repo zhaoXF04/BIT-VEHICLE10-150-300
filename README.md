@@ -9,7 +9,6 @@ If you use our datasets, please cite our paper. Tanks.
 
 Dataset URL：https://pan.baidu.com/s/19OLuPtGTENo43lVTKtGosA
 
-password：zflh
 
 3)Examples
 ![001992](https://github.com/zhaoXF04/BIT-VEHICLE10-150-300/assets/102145235/0f03df94-56be-451e-81ef-0a8c12a3a881)
